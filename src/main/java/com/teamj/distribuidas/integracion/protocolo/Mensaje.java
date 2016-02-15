@@ -20,6 +20,8 @@ public abstract class Mensaje {
     public static final String TIPO_MENSAJE_RESPONSE = "RS";
     public static final String ID_MENSAJE_AUTENTICACION = "AUTENTISIN";
     public static final String ID_MENSAJE_CONSULTACUENTA = "VERIFICARC";
+    public static final String ID_MENSAJE_CONSULTACLIENTE = "VERIFICARC";
+    public static final String ID_MENSAJE_CONSULTAMOVIMIENTO = "VERIFICARC";
     public static final String ID_MENSAJE_DEPOSITO = "TRADEPOSIT";
     public static final String ID_MENSAJE_RETIRO = "TRARETIROV";
 
